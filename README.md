@@ -17,7 +17,9 @@ how to instal on windows only
 ![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/05e7d19c-709e-433d-b851-70509d7cc07c)
 
 5. go to web site http://localhost:5001
-6. setup boxes ur need like
+   
+7. check boxes ur need like
+
 ![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/61c2741f-abd1-4ad6-9b58-6a85967bfabb)
 
 and and enjoy a working radar
