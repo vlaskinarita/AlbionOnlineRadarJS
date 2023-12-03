@@ -22,6 +22,11 @@ how to instal on windows only
 
 ![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/61c2741f-abd1-4ad6-9b58-6a85967bfabb)
 
+![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/66d955ed-d41d-4631-84e8-322bf12a2cde)
+
+
 and and enjoy a working radar
+
+![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/981ffd16-f1a4-4bd5-b32f-0a33d487d4cd)
 
 for any questions related to the installation contact the original discord channel here https://discord.gg/yASQrg2uUW
