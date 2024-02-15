@@ -15,9 +15,9 @@ how to instal on windows only
 2. install  node-v18.18.2-x64.msi
    
 4. Open this repo in ur VS
-   
+
 6. run debug F5 or if u dont need debug just run Ctrl + F5
-7. 
+ 
 8. After the first run, if the application does not start, copy the entire node_modules folder from original repository to the place of your node_modules folder.  
 
 ![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/05e7d19c-709e-433d-b851-70509d7cc07c)
