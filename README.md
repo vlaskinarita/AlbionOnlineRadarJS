@@ -3,7 +3,7 @@
 for any questions related to the installation contact the original discord channel here
 https://discord.gg/yASQrg2uUW
 
-original repository here https://github.com/FashionFlora/Albion-Online-Radar-QRadar/tree/main
+A. original repository here https://github.com/FashionFlora/Albion-Online-Radar-QRadar/tree/main
 
 demo video and video installation instructions (not exactly corresponding to this installation diagram) see here
 https://www.youtube.com/watch?v=_luNHJXrD5o
@@ -17,6 +17,8 @@ how to instal on windows only
 4. Open this repo in ur VS
    
 6. run debug F5 or if u dont need debug just run Ctrl + F5
+7. 
+8. After the first run, if the application does not start, copy the entire node_modules folder from original repository to the place of your node_modules folder.  
 
 ![image](https://github.com/vlaskinarita/AlbionOnlineRadarJS/assets/120003563/05e7d19c-709e-433d-b851-70509d7cc07c)
 
