@@ -5,8 +5,7 @@ https://discord.gg/yASQrg2uUW
 
 A. original repository here https://github.com/FashionFlora/Albion-Online-Radar-QRadar/tree/main
 
-demo video and video installation instructions (not exactly corresponding to this installation diagram) see here
-https://www.youtube.com/watch?v=_luNHJXrD5o
+B. I use and run fork from:  https://github.com/Zeldruck/Albion-Online-ZQRadar
 
 how to instal on windows only
 
