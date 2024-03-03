@@ -12,6 +12,8 @@ how to instal on windows only
 1. go to https://nodejs.org/download/release/v18.18.2/ and get node-v18.18.2-x64.msi 
 
 2. install  node-v18.18.2-x64.msi
+
+3. Install Visual Studio community https://visualstudio.microsoft.com/ru/vs/community/ - You need the Pyton and Java option
    
 4. Open this repo in ur VS
 
